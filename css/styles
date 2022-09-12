@@ -1,0 +1,7 @@
+<LINK rel="stylesheet" media="aural" href="corporate-aural.css" type="text/css">
+<LINK rel="stylesheet" media="screen" href="corporate-screen.css" type="text/css">
+<LINK rel="stylesheet" media="print" href="corporate-print.css" type="text/css">
+<LINK rel="stylesheet" href="techreport.css" type="text/css">
+<STYLE media="screen, print" type="text/css">
+    p.special { color: rgb(230, 100, 180) }
+</STYLE>
